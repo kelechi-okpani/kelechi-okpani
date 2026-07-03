@@ -2,7 +2,8 @@
 
 ## Frontend Engineer
 
-Frontend Engineer with 5+ years of experience building responsive, scalable, and user-focused web applications. I specialize in crafting modern, high-performance interfaces using **React, Next.js, TypeScript, JavaScript, and Tailwind CSS**, with a strong focus on clean architecture, accessibility, and great user experience.
+A Full Stack MERN Engineer with 4+ years of experience building scalable, secure, and high-performance web applications. I specialize in developing end-to-end solutions using the **MongoDB, Express.js, React, and Node.js (MERN)** stack, alongside **TypeScript** and **JavaScript**. Experienced in designing responsive user interfaces, building RESTful and GraphQL APIs, integrating databases, implementing authentication, and delivering maintainable, production-ready applications with a strong focus on performance, security, and user experience.
+
 
 I enjoy transforming ideas into polished digital products, building reusable UI components, optimizing performance, and creating seamless user experiences that solve real-world problems.
 
