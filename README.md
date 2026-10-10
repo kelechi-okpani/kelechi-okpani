@@ -53,10 +53,7 @@ A project in the real-time streaming space, representing work involving interact
 
 - Focus: Real-time interfaces and responsive application experiences.
 - Website: https://cinstance.com/
-- 
-*Explore my portfolio for more information about my projects, technical experience, and approach to building production-ready applications.*
 ---
-
 ## 🛠️ Tech Stack
 
 **Languages**
