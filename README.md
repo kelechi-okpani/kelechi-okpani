@@ -20,55 +20,40 @@ I have contributed to projects across SaaS, e-commerce, education, streaming, an
 - 🤝 **Open to:** Remote roles, interesting engineering challenges, collaborations, and open-source contributions
 
 ---
-
 ## 🚀 Featured Projects
 
-### ☁️ Cloudnotte
-**Education Technology · SaaS Platform**
+### 🎓 [Cloudnotte](https://cloudnotte.com/)
+**Education Technology Platform**
 
-A multi-tenant education platform designed to support institutions, educators, and students through centralized digital learning and management workflows.
+An education platform that helps schools manage administration, attendance, assessments, teaching, and student progress through a connected digital system.
 
-- Focused on scalable application architecture and reusable UI components.
-- Built user-facing features with an emphasis on usability and responsive design.
-- Worked with modern web technologies to support maintainability and a consistent user experience.
+- Focus: School management, learning tools, and digital assessments.
+- Website: https://cloudnotte.com/
 
-**Tech:** React, Next.js, TypeScript, Node.js, MongoDB
+### 🛡️ [TrueMark Global](https://www.truemarkglobal.com/)
+**ISO Certification & Compliance Solutions**
 
-### 🛡️ TrueMark Global
-**ISO Management · Compliance Technology**
+A platform for ISO certification, training, conformity assessment, and compliance workflows, including digital tools for tracking audits, certifications, and progress.
 
-A platform designed to simplify ISO management, documentation, and compliance workflows for businesses.
+- Focus: Compliance workflows, certification processes, and digital platforms.
+- Website: https://www.truemarkglobal.com/
 
-- Worked on translating complex business processes into clear, user-friendly interfaces.
-- Focused on workflow organization, data validation, and reliable application behavior.
-- Applied structured development practices to improve maintainability and usability.
+### 💳 [Vant](https://vantapp.com/)
+**Financial Technology Platform**
 
-**Tech:** React, Next.js, TypeScript, Node.js, REST APIs
+A fintech platform focused on helping individuals and businesses manage their finances through digital financial services and investment-related products.
 
-### 💳 Vantapp
-**Fintech · Financial Services**
+- Focus: Financial dashboards, account experiences, and fintech integrations.
+- Website: https://vantapp.com/
 
-A financial services platform focused on account management, digital financial workflows, and an intuitive user experience.
+### ⚡ [Cinstance](https://cinstance.com/)
+**Real-Time Streaming Platform**
 
-- Developed interactive dashboard interfaces and user-facing workflows.
-- Focused on responsive layouts, API integration, and clear information presentation.
-- Prioritized usability and maintainable frontend architecture.
+A project in the real-time streaming space, representing work involving interactive user experiences and performance-focused web development.
 
-**Tech:** React, TypeScript, Next.js, REST APIs
-
-### ⚡ Cinstance
-**Real-Time Applications · Streaming Technology**
-
-A platform involving real-time data communication and streaming experiences, with an emphasis on responsive interfaces and efficient event handling.
-
-- Focused on interactive user interfaces and real-time application behavior.
-- Worked with WebSockets to support continuous data communication.
-- Considered performance, responsiveness, and efficient handling of incoming events.
-
-**Tech:** React, TypeScript, Node.js, WebSockets
-
----
-
+- Focus: Real-time interfaces and responsive application experiences.
+- Website: https://cinstance.com/
+- 
 *Explore my portfolio for more information about my projects, technical experience, and approach to building production-ready applications.*
 ---
 
