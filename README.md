@@ -1,30 +1,138 @@
 # Hi 👋, I'm Kelechi Okpani
 
-## Full Stack Engineer
+### Full Stack Software Engineer | React · Next.js · TypeScript · Node.js
 
-A Full Stack MERN Engineer with 5+ years of experience building scalable, secure, and high-performance web applications. I specialize in developing end-to-end solutions using the **MongoDB, Express.js, React, and Node.js (MERN)** stack, alongside **TypeScript** and **JavaScript**. Experienced in designing responsive user interfaces, building RESTful and GraphQL APIs, integrating databases, implementing authentication, and delivering maintainable, production-ready applications with a strong focus on performance, security, and user experience.
+I build scalable, high-performance web applications that solve real-world problems. With **5+ years of software engineering experience**, I work across the stack, from crafting intuitive, accessible user interfaces to building secure APIs, integrating databases, and delivering production-ready applications.
 
+My core strengths are **frontend engineering, full-stack development, UI architecture, API integration, and performance optimization**. I enjoy turning complex requirements into reliable, maintainable products that provide a great user experience.
 
-I enjoy transforming ideas into polished digital products, building reusable UI components, optimizing performance, and creating seamless user experiences that solve real-world problems.
+I have contributed to projects across SaaS, e-commerce, education, streaming, and business management. I care about clean code, thoughtful engineering decisions, measurable improvements, and building software that people enjoy using.
 
-* 🌍 Based in Nigeria
-* ✉️ Contact: **[kelechiokpani.ko@gmail.com](mailto:kelechiokpani.ko@gmail.com)**
-* 🚀 Currently exploring **Frontend Architecture, Performance Optimization, and Scalable Web Applications**
-* 🤝 Open to collaborations, startups, and open-source projects
-* 💬 Ask me about **React, Next.js, TypeScript, Frontend Development, UI Engineering, and Product Development**
-* 🌐 Portfolio: **https://kelechi-okpani.vercel.app**
+- 🌍 **Location:** Nigeria · Open to international remote opportunities
+- 💼 **Roles:** Full Stack Engineer · Software Engineer · Frontend Engineer
+- ⚛️ **Frontend:** React, Next.js, Vue.js, TypeScript, JavaScript, Tailwind CSS
+- ⚙️ **Backend:** Node.js, Express.js, NestJS, REST APIs, GraphQL
+- 🗄️ **Data:** MongoDB, PostgreSQL, Redis
+- 🧪 **Engineering:** Git, Docker, CI/CD, Jest, API integration, performance optimization
+- 🤖 **AI-assisted development:** Using AI tools to accelerate development, debugging, and problem-solving
+- 🌐 **Portfolio:** [kelechi-okpani.vercel.app](https://kelechi-okpani.vercel.app)
+- ✉️ **Email:** [kelechiokpani.ko@gmail.com](mailto:kelechiokpani.ko@gmail.com)
+- 🤝 **Open to:** Remote roles, interesting engineering challenges, collaborations, and open-source contributions
 
-## Skills
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="Next.js" /></a>
-<a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue.js" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>
-<a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-</p>
+## 🚀 Featured Projects
+
+I enjoy building products that combine thoughtful user experiences with solid engineering.
+
+### TrueMark ISO
+**ISO Management & Compliance Platform**
+
+A business-focused platform designed to support ISO management and compliance workflows.
+
+- Focused on clear interfaces for complex workflows.
+- Emphasized maintainability, validation, and reliable data handling.
+- Worked on turning business requirements into practical software functionality.
+
+### Dominion City Abuja
+**Church Website & Digital Experience**
+
+[Visit Website](https://dominioncityabuja.com/)
+
+A digital platform supporting church communication, media, and livestream experiences.
+
+- Built and improved website functionality and user experience.
+- Focused on responsive layouts, performance, and accessibility.
+- Contributed to a platform serving a broad online audience.
+
+### Vantapp
+**Financial Services Dashboard**
+
+[Visit Website](https://vantapp.com/)
+
+A digital financial platform focused on account management and user-facing financial workflows.
+
+- Worked on dashboard interfaces and interactive user journeys.
+- Focused on usability, responsive design, and reliable API integration.
+
+### Colycia Couture
+**E-commerce Experience**
+
+[Visit Website](https://colyciacouture.com/)
+
+An online shopping experience designed to make product discovery and checkout straightforward.
+
+- Focused on responsive storefront interfaces.
+- Worked on checkout experience and payment integration.
+- Prioritized performance and reducing friction in the shopping journey.
+
+*Explore my portfolio for more projects, technical details, and examples of my work.*
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+
+**Frontend**
+- React
+- Next.js
+- Vue.js
+- Tailwind CSS
+- Redux Toolkit
+
+**Backend**
+- Node.js
+- Express.js
+- NestJS
+- REST APIs
+- GraphQL
+- Authentication and authorization
+
+**Databases**
+- MongoDB
+- PostgreSQL
+- Redis
+
+**Tools & Practices**
+- Git and GitHub
+- Docker
+- CI/CD
+- Jest
+- Agile/Scrum
+- Responsive design
+- Web performance optimization
+
+**Cloud & Deployment**
+- Vercel
+- Railway
+- AWS
+- Cloudinary
+- Cloudflare
+
+---
+
+## 📈 What I Bring to a Team
+
+- **End-to-end ownership:** From understanding requirements to implementation, testing, and deployment.
+- **Product thinking:** Building around user needs, business goals, and measurable outcomes.
+- **Performance mindset:** Improving loading speed, responsiveness, and overall application quality.
+- **Maintainable architecture:** Writing reusable components and organizing code for long-term growth.
+- **Collaboration:** Communicating technical decisions clearly and working effectively with designers, developers, and stakeholders.
+- **Continuous learning:** Exploring better approaches, modern tooling, and practical applications of AI in software development.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in joining a product-focused team where I can contribute to meaningful software, solve challenging engineering problems, and continue growing as a software engineer.
+
+- 🌐 **Portfolio:** [kelechi-okpani.vercel.app](https://kelechi-okpani.vercel.app)
+- ✉️ **Email:** [kelechiokpani.ko@gmail.com](mailto:kelechiokpani.ko@gmail.com)
+- 💻 **GitHub:** [github.com/kelechi-okpani](https://github.com/kelechi-okpani)
+
+**Building useful products. Writing maintainable code. Solving real problems.**
