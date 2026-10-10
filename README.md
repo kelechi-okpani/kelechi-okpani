@@ -23,51 +23,53 @@ I have contributed to projects across SaaS, e-commerce, education, streaming, an
 
 ## 🚀 Featured Projects
 
-I enjoy building products that combine thoughtful user experiences with solid engineering.
+### ☁️ Cloudnotte
+**Education Technology · SaaS Platform**
 
-### TrueMark ISO
-**ISO Management & Compliance Platform**
+A multi-tenant education platform designed to support institutions, educators, and students through centralized digital learning and management workflows.
 
-A business-focused platform designed to support ISO management and compliance workflows.
+- Focused on scalable application architecture and reusable UI components.
+- Built user-facing features with an emphasis on usability and responsive design.
+- Worked with modern web technologies to support maintainability and a consistent user experience.
 
-- Focused on clear interfaces for complex workflows.
-- Emphasized maintainability, validation, and reliable data handling.
-- Worked on turning business requirements into practical software functionality.
+**Tech:** React, Next.js, TypeScript, Node.js, MongoDB
 
-### Dominion City Abuja
-**Church Website & Digital Experience**
+### 🛡️ TrueMark Global
+**ISO Management · Compliance Technology**
 
-[Visit Website](https://dominioncityabuja.com/)
+A platform designed to simplify ISO management, documentation, and compliance workflows for businesses.
 
-A digital platform supporting church communication, media, and livestream experiences.
+- Worked on translating complex business processes into clear, user-friendly interfaces.
+- Focused on workflow organization, data validation, and reliable application behavior.
+- Applied structured development practices to improve maintainability and usability.
 
-- Built and improved website functionality and user experience.
-- Focused on responsive layouts, performance, and accessibility.
-- Contributed to a platform serving a broad online audience.
+**Tech:** React, Next.js, TypeScript, Node.js, REST APIs
 
-### Vantapp
-**Financial Services Dashboard**
+### 💳 Vantapp
+**Fintech · Financial Services**
 
-[Visit Website](https://vantapp.com/)
+A financial services platform focused on account management, digital financial workflows, and an intuitive user experience.
 
-A digital financial platform focused on account management and user-facing financial workflows.
+- Developed interactive dashboard interfaces and user-facing workflows.
+- Focused on responsive layouts, API integration, and clear information presentation.
+- Prioritized usability and maintainable frontend architecture.
 
-- Worked on dashboard interfaces and interactive user journeys.
-- Focused on usability, responsive design, and reliable API integration.
+**Tech:** React, TypeScript, Next.js, REST APIs
 
-### Colycia Couture
-**E-commerce Experience**
+### ⚡ Cinstance
+**Real-Time Applications · Streaming Technology**
 
-[Visit Website](https://colyciacouture.com/)
+A platform involving real-time data communication and streaming experiences, with an emphasis on responsive interfaces and efficient event handling.
 
-An online shopping experience designed to make product discovery and checkout straightforward.
+- Focused on interactive user interfaces and real-time application behavior.
+- Worked with WebSockets to support continuous data communication.
+- Considered performance, responsiveness, and efficient handling of incoming events.
 
-- Focused on responsive storefront interfaces.
-- Worked on checkout experience and payment integration.
-- Prioritized performance and reducing friction in the shopping journey.
+**Tech:** React, TypeScript, Node.js, WebSockets
 
-*Explore my portfolio for more projects, technical details, and examples of my work.*
+---
 
+*Explore my portfolio for more information about my projects, technical experience, and approach to building production-ready applications.*
 ---
 
 ## 🛠️ Tech Stack
