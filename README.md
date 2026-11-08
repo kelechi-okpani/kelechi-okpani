@@ -22,18 +22,10 @@ I have contributed to projects across SaaS, e-commerce, education, streaming, an
 ---
 ## 🚀 Featured Projects
 
-**Education Technology Platform** ### 🎓 [Cloudnotte](https://cloudnotte.com/)
+🎓 [Cloudnotte](https://cloudnotte.com/) **Education Technology Platform**  - Focus: School management, learning tools, and digital assessments.
 
-- Focus: School management, learning tools, and digital assessments.
-- Website: https://cloudnotte.com/
+🛡️ [TrueMark Global](https://www.truemarkglobal.com/) **ISO Certification & Compliance Solutions**  - Focus: Compliance workflows, certification processes, and digital platforms.
 
-### 🛡️ [TrueMark Global](https://www.truemarkglobal.com/)
-**ISO Certification & Compliance Solutions**
-
-A platform for ISO certification, training, conformity assessment, and compliance workflows, including digital tools for tracking audits, certifications, and progress.
-
-- Focus: Compliance workflows, certification processes, and digital platforms.
-- Website: https://www.truemarkglobal.com/
 
 ### 💳 [Vant](https://vantapp.com/)
 **Financial Technology Platform**
