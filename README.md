@@ -1,23 +1,11 @@
 # Hi 👋, I'm Kelechi Okpani
-
-### Full Stack Software Engineer | React · Next.js · TypeScript · Node.js
+🌍 **Location:** Nigeria · Open to remote opportunities
 
 I build scalable, high-performance web applications that solve real-world problems. With **5+ years of software engineering experience**, I work across the stack, from crafting intuitive, accessible user interfaces to building secure APIs, integrating databases, and delivering production-ready applications.
 
-My core strengths are **frontend engineering, full-stack development, UI architecture, API integration, and performance optimization**. I enjoy turning complex requirements into reliable, maintainable products that provide a great user experience.
+My core strengths are **full-stack engineering, UI architecture, API integration, and performance optimization**. I enjoy turning complex requirements into reliable, maintainable products that provide a great user experience.
 
 I have contributed to projects across SaaS, e-commerce, education, streaming, and business management. I care about clean code, thoughtful engineering decisions, measurable improvements, and building software that people enjoy using.
-
-- 🌍 **Location:** Nigeria · Open to remote opportunities
-- 💼 **Roles:** Full Stack Engineer · Software Engineer · Frontend Engineer
-- ⚛️ **Frontend:** React, Next.js, Vue.js, TypeScript, JavaScript, Tailwind CSS
-- ⚙️ **Backend:** Node.js, Express.js, NestJS, REST APIs, GraphQL
-- 🗄️ **Data:** MongoDB, PostgreSQL, Redis
-- 🧪 **Engineering:** Git, Docker, CI/CD, Jest, API integration, performance optimization
-- 🤖 **AI-assisted development:** Using AI tools to accelerate development, debugging, and problem-solving
-- 🌐 **Portfolio:** [kelechi-okpani.vercel.app](https://kelechi-okpani.vercel.app)
-- ✉️ **Email:** [kelechiokpani.ko@gmail.com](mailto:kelechiokpani.ko@gmail.com)
-- 🤝 **Open to:** Remote roles, interesting engineering challenges, collaborations, and open-source contributions
 
 ---
 ## 🚀 Featured Projects
@@ -26,76 +14,14 @@ I have contributed to projects across SaaS, e-commerce, education, streaming, an
 
 🛡️ [TrueMark Global](https://www.truemarkglobal.com/) **ISO Certification & Compliance Solutions**  - Focus: Compliance workflows, certification processes, and digital platforms.
 
+💳 [Vant](https://vantapp.com/)  **Financial Technology Platform**   - Focus: Financial dashboards, account experiences, and fintech integrations.
 
-### 💳 [Vant](https://vantapp.com/)
-**Financial Technology Platform**
+⚡ [Cinstance](https://cinstance.com/)  **Real-Time Streaming Platform**   - Focus: Real-time interfaces and responsive application experiences.
 
-A fintech platform focused on helping individuals and businesses manage their finances through digital financial services and investment-related products.
+⚡ [HX Africa](https://hxafrica.com/) **Product Studio Showcase** - Focus: Sub-second global delivery times, static site generation, and sleek architectural delivery.
 
-- Focus: Financial dashboards, account experiences, and fintech integrations.
-- Website: https://vantapp.com/
+⛪ [Dominion City Abuja](https://dominioncityabuja.org/) **Organizational Activity Management Dashboard** - Focus: Multi-department portal tracking attendance, records, financial spreadsheets, video uploads, and user galleries using a MERN stack backed by a headless Sanity CMS.
 
-### ⚡ [Cinstance](https://cinstance.com/)
-**Real-Time Streaming Platform**
-
-A project in the real-time streaming space, representing work involving interactive user experiences and performance-focused web development.
-
-- Focus: Real-time interfaces and responsive application experiences.
-- Website: https://cinstance.com/
----
-## 🛠️ Tech Stack
-
-**Languages**
-- JavaScript (ES6+)
-- TypeScript
-- Python
-
-**Frontend**
-- React
-- Next.js
-- Vue.js
-- Tailwind CSS
-- Redux Toolkit
-
-**Backend**
-- Node.js
-- Express.js
-- NestJS
-- REST APIs
-- GraphQL
-- Authentication and authorization
-
-**Databases**
-- MongoDB
-- PostgreSQL
-- Redis
-
-**Tools & Practices**
-- Git and GitHub
-- Docker
-- CI/CD
-- Jest
-- Agile/Scrum
-- Responsive design
-- Web performance optimization
-
-**Cloud & Deployment**
-- Vercel
-- Railway
-- AWS
-- Cloudinary
-- Cloudflare
-
----
-
-## 📈 What I Bring to a Team
-
-- **End-to-end ownership:** From understanding requirements to implementation, testing, and deployment.
-- **Product thinking:** Building around user needs, business goals, and measurable outcomes.
-- **Performance mindset:** Improving loading speed, responsiveness, and overall application quality.
-- **Maintainable architecture:** Writing reusable components and organizing code for long-term growth.
-- **Collaboration:** Communicating technical decisions clearly and working effectively with designers, developers, and stakeholders.
-- **Continuous learning:** Exploring better approaches, modern tooling, and practical applications of AI in software development.
 
 ---
 
@@ -104,7 +30,10 @@ A project in the real-time streaming space, representing work involving interact
 I'm interested in joining a product-focused team where I can contribute to meaningful software, solve challenging engineering problems, and continue growing as a software engineer.
 
 - 🌐 **Portfolio:** [kelechi-okpani.vercel.app](https://kelechi-okpani.vercel.app)
+
 - ✉️ **Email:** [kelechiokpani.ko@gmail.com](mailto:kelechiokpani.ko@gmail.com)
+
 - 💻 **GitHub:** [github.com/kelechi-okpani](https://github.com/kelechi-okpani)
+
 
 **Building useful products. Writing maintainable code. Solving real problems.**
