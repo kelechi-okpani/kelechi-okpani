@@ -59,8 +59,7 @@ A project in the real-time streaming space, representing work involving interact
 **Languages**
 - JavaScript (ES6+)
 - TypeScript
-- HTML5
-- CSS3
+- Python
 
 **Frontend**
 - React
