@@ -8,7 +8,7 @@ My core strengths are **frontend engineering, full-stack development, UI archite
 
 I have contributed to projects across SaaS, e-commerce, education, streaming, and business management. I care about clean code, thoughtful engineering decisions, measurable improvements, and building software that people enjoy using.
 
-- 🌍 **Location:** Nigeria · Open to international remote opportunities
+- 🌍 **Location:** Nigeria · Open to remote opportunities
 - 💼 **Roles:** Full Stack Engineer · Software Engineer · Frontend Engineer
 - ⚛️ **Frontend:** React, Next.js, Vue.js, TypeScript, JavaScript, Tailwind CSS
 - ⚙️ **Backend:** Node.js, Express.js, NestJS, REST APIs, GraphQL
