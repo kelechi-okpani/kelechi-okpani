@@ -22,10 +22,7 @@ I have contributed to projects across SaaS, e-commerce, education, streaming, an
 ---
 ## 🚀 Featured Projects
 
-### 🎓 [Cloudnotte](https://cloudnotte.com/)
-**Education Technology Platform**
-
-An education platform that helps schools manage administration, attendance, assessments, teaching, and student progress through a connected digital system.
+**Education Technology Platform** ### 🎓 [Cloudnotte](https://cloudnotte.com/)
 
 - Focus: School management, learning tools, and digital assessments.
 - Website: https://cloudnotte.com/
