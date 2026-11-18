@@ -1,5 +1,6 @@
 # Hi 👋, I'm Kelechi Okpani
-🌍 **Location:** Nigeria · Open to remote opportunities
+🌍 **Location:** Nigeria · Open to remote opportunities  
+🚀 **Founder:** [KelzStudio](https://www.kelzstudio.com)
 
 I build scalable, high-performance web applications that solve real-world problems. With **5+ years of software engineering experience**, I work across the stack, from crafting intuitive, accessible user interfaces to building secure APIs, integrating databases, and delivering production-ready applications.
 
@@ -9,6 +10,8 @@ I have contributed to projects across SaaS, e-commerce, education, streaming, an
 
 ---
 ## 🚀 Featured Projects
+
+🎬 [KelzStudio](https://www.kelzstudio.com) **Cross-Platform Desktop Presentation Software** - Focus: Desktop presentation software built for churches, businesses, and live events, featuring automated multi-OS release pipelines and download analytics.
 
 🎓 [Cloudnotte](https://cloudnotte.com/) **Education Technology Platform**  - Focus: School management, learning tools, and digital assessments.
 
